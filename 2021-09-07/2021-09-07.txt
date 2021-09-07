@@ -1,0 +1,29 @@
+터미널
+GUI가 있는데 왜 CLI를 쓰는걸까? 파일을 쉽게 옮기고 복사하고 다 할 수 있는데 왜 쓰는지?
+성능 면에서 유저에게 보이기 위해 컴퓨터가 추가적으로 일을 하게 되므로!
+명확성 면에서 파일 명을 입력하면 되므로 오타도 다시 지울 수 있고, 복잡한 프로그램들을 
+한번에 설치할 수 있어서 개발자에게는 CLI가 편하다!
+
+Linux 명령어
+-pwd : Print Working Directory, 현재 위치해있는 경로 출력
+-ls : List
+-ls -al : List 자세히
+-cd : Change Directory, 원하는 디렉토리로 이동
+-cd .. : 상위 폴더로 나가기
+-mkdir : Make Directory, 폴더 생산
+-rm : Remove
+-rm -r : Recursive로 디렉토리에게는 -r을, 개인 파일에는 필요가 없다.
+-mv : Move(이동하고 싶은 파일, 이동할 목적지 디렉토리)
+-cp : Copy
+-cp -r : rm과 마찬가지로 디렉토리 복사할 때에는 -r을, 개인 파일에는 필요가 없다.
+-sudo apt-get install(remove,purge,--reinstall install,update,upgrade)
+
+가상환경
+프로젝트를 여러 개 개발할 때 패키지의 버전 문제가 생긴다. 예를 들어 A에서는 패키지 1.5, 
+B에서는 패키지 2.0을 써야 한다면 호환성에 문제가 생긴다.
+가상환경은 독립된 공간을 만들어주는 기능이다.
+python -m venv 파일명
+cd 파일명
+아나콘다 사용 권장!
+conda create --name 가상환경이름
+conda install 패키지이름
