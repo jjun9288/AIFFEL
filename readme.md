@@ -10,5 +10,7 @@
 
     -Python studies and reviews
     -Handling various file formats
-
+    -Visualization using matplotlib and seaborn
+    -Basics of NumPy and Pandas
+    -Data preprocessing
     
