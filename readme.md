@@ -14,3 +14,7 @@
     -Basics of NumPy and Pandas
     -Data preprocessing
     
+-Week3
+
+    -Image classification
+    -Small projects
