@@ -17,4 +17,11 @@
 -Week3
 
     -Image classification
-    -Small projects
+    -Small projects (Rock Scissor Paper image classification)
+    -CS231n lecture2
+
+-Week4
+
+    -ML algorithms using scikit-learn
+    -Small projects (Classification using scikit-learn)
+    -CS231n lecture 3, 4
