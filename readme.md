@@ -25,3 +25,5 @@
     -ML algorithms using scikit-learn
     -Small projects (Classification using scikit-learn)
     -CS231n lecture 3, 4
+    -Basics of OpenCV
+    -Small projects (Stickers on image using OpenCV)
