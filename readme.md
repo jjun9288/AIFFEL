@@ -27,3 +27,9 @@
     -CS231n lecture 3, 4
     -Basics of OpenCV
     -Small projects (Stickers on image using OpenCV)
+
+-Week5
+
+    -Face embedding
+    -CS231n lecture 5, 6
+    -Writing lyrics using AI
