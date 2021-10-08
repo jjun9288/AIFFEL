@@ -33,3 +33,4 @@
     -Face embedding
     -CS231n lecture 5, 6
     -Writing lyrics using AI
+    -Deep Learning implementation using NumPy
