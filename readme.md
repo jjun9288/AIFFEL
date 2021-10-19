@@ -34,3 +34,15 @@
     -CS231n lecture 5, 6
     -Writing lyrics using AI
     -Deep Learning implementation using NumPy
+
+-Week6
+
+    -Kaggle introduction
+    -Basics of regression
+    -Unsupervised learning (clustering, dimensionality reduction)
+    -Sentiment classification
+
+-Week7
+
+    -Tensorflow introduction
+    -Semantic segmentation
