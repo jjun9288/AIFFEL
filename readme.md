@@ -27,6 +27,7 @@
     -CS231n lecture 3, 4
     -Basics of OpenCV
     -Small projects (Stickers on image using OpenCV)
+    -TOEIC
 
 -Week5
 
@@ -41,6 +42,7 @@
     -Basics of regression
     -Unsupervised learning (clustering, dimensionality reduction)
     -Sentiment classification
+    -정보처리기사 실기
 
 -Week7
 
