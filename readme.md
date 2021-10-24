@@ -46,3 +46,4 @@
 
     -Tensorflow introduction
     -Semantic segmentation
+    -Hackathon(using COVID-19 datas from Kaggle)
