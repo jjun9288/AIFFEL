@@ -49,3 +49,7 @@
     -Tensorflow introduction
     -Semantic segmentation
     -Hackathon(using COVID-19 datas from Kaggle)
+
+-Week8
+
+    -DL modeling (VGG-16, ResNet-50 implement)
