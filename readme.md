@@ -53,3 +53,4 @@
 -Week8
 
     -DL modeling (VGG-16, ResNet-50 implement)
+    -DL layers(About linear layer, convolution layer, pooling layer)
