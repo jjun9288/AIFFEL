@@ -54,3 +54,8 @@
 
     -DL modeling (VGG-16, ResNet-50 implement)
     -DL layers(About linear layer, convolution layer, pooling layer)
+    -RNN layers(About word embedding, RNN, LSTM, bidirectional RNN)
+
+-Week9
+
+    -Regularization(About L1,L2 regularization, Dropout, Batch Normalization)
