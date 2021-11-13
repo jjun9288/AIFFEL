@@ -1,4 +1,4 @@
-# Studies and projects for 6 months !
+# Studies and projects in AIFFEL
 
 -Week1   
       
@@ -71,3 +71,5 @@
 -Week10
 
     -Information theory(Entropy)
+    -Project (DCGAN)
+    -Project (Stock prediction with ARIMA)
