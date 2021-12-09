@@ -73,3 +73,22 @@
     -Information theory(Entropy)
     -Project (DCGAN)
     -Project (Stock prediction with ARIMA)
+
+-Week11
+
+    -Web crawling
+    -Project (Super resolution with SRCNN and SRGAN)
+    -Project (Chatbot with Transformer)
+
+-Week12
+
+    -Map reduce
+
+-Week13
+
+    -Projet (cGAN)
+    -Hackathon
+
+-Week14
+
+    -Backbone (ResNet)
