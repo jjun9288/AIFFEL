@@ -92,3 +92,27 @@
 -Week14
 
     -Backbone (ResNet)
+   
+-Week15
+
+    -Augmentation
+    
+-Week16
+
+    -Class Activation Map
+    
+-Week17
+
+    -Object Detection
+    
+-Week18
+
+    -Segmentation
+    
+-Week19
+
+    -OCR
+    
+-Week20 ~
+
+    -Hackathon (Hornet detector using YOLOv5)
